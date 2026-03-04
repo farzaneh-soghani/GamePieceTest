@@ -5,7 +5,7 @@ public class Game {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Gib eine Zahl ein, um das Spiel bis hierhin fortzusetzen: ");
+        System.out.print("Wie viele Felder soll das Spielfeld haben? Gib eine Zahl ein: ");
         int ziel = sc.nextInt();
         // Anzahl des Ziels aus Argument
         //int ziel = Integer.parseInt(args[0]);
