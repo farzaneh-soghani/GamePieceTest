@@ -26,7 +26,7 @@ git clone https://github.com/farzaneh-soghani/GamePieceTest.git
 - `Das Spiel starten` → java GamePieceTest
 
 Beim Start wirst du aufgefordert, eine Zahl einzugeben, die als Ziel für die Spielsteine dient.
-### Enter klicken, dann wird das Spiel abgelaufen. 
+### Enter klicken, dann wird das Spiel laufen. 
 
    
 ## Dateien
