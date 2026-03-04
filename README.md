@@ -1,4 +1,4 @@
-# GamePieceTest
+# Game
 Ein kleines Java-Konsolenspiel mit zwei Spielern und beweglichen Spielsteinen.  
 Jeder Spieler hat zwei Steine, die sich auf einem Spielfeld bewegen.  
 Das Ziel ist, beide Steine ins Ziel zu bringen. Wer zuerst beide Steine erreicht, gewinnt.
@@ -17,13 +17,13 @@ Das Ziel ist, beide Steine ins Ziel zu bringen. Wer zuerst beide Steine erreicht
 2. Projekt klonen:
 
 ```bash
-git clone https://github.com/farzaneh-soghani/GamePieceTest.git
+git clone https://github.com/farzaneh-soghani/Game.git
 ```
 3. In IntelliJ öffnen oder über Terminal:
-- `Erst in den Projektordner wechseln` → cd GamePieceTest  
+- `Erst in den Projektordner wechseln` → cd Game  
 - `Dann in den src-Ordner wechseln` → cd src  
 - `Alle Java-Dateien kompilieren` → javac *.java 
-- `Das Spiel starten` → java GamePieceTest
+- `Das Spiel starten` → java Game
 
 Beim Start wirst du aufgefordert, eine Zahl einzugeben, die als Ziel für die Spielsteine dient.
 ### Enter klicken, dann wird das Spiel laufen. 
@@ -31,7 +31,7 @@ Beim Start wirst du aufgefordert, eine Zahl einzugeben, die als Ziel für die Sp
    
 ## Dateien
 
-- `GamePieceTest.java` → Hauptklasse, steuert das Spiel  
+- `Game.java` → Hauptklasse, steuert das Spiel  
 - `Player.java` → Klasse für Spieler und deren Spielsteine  
 - `GamePiece.java` → Klasse für einzelne Spielsteine  
 - `README.md` → Projektbeschreibung und Anleitung  
